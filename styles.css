@@ -1,0 +1,25 @@
+
+button {
+    background-color: #0cf3cc;
+    border: 6px solid #0f40f1;
+    border-radius: 10px;
+    width: 150px;
+    font-family: 'Space Mono', monospace;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+    font-family: 'Space Mono', monospace;
+  }
+  
+  h2, h3 {
+    color: grey;
+    font-family: 'Space Mono', monospace;
+  }
+  
+  input {
+    color: blue;
+    font-family: 'Space Mono', monospace;
+  }
+  
